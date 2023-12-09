@@ -10,7 +10,7 @@ MS Computer Science @ Purdue University, Indiana, USA
 - 🤔 I’m looking for help with Backend Development
 - 💬 Ask me about AI, Deep Learning, NLP
 - 📫 How to reach me: mgchristopher.netlify.app
-- ⚡ Fun fact: I am a light
+- ⚡ Fun fact: I am so light
 
 
 ## 📊GitHub Stats :
