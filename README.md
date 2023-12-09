@@ -18,4 +18,9 @@ Here are some ideas to get you started:
 
 ![Christopher's github stats](https://github-readme-stats.vercel.app/api?username=christopher-2000&show_icons=true&theme=dark)
 
+## 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=christopher-2000&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=christopher-2000&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-2000&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-2000)](https://github.com/christopher-2000/github-readme-stats)
