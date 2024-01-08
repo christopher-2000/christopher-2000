@@ -1,4 +1,4 @@
-## Welcome to My Profile 👋
+## Welcome to My Profile 👋 ![](https://komarev.com/ghpvc/?username=christopher-2000&color=0069b4)
 MS Computer Science @ Purdue University, Indiana, USA
 <!--
 **christopher-2000/christopher-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
