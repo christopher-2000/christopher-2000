@@ -4,8 +4,8 @@ MS Computer Science @ Purdue University, Indiana, USA
 **christopher-2000/christopher-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Tag Generation for TED Talks
-- 🌱 I’m currently learning Node.Js
+- 🔭 I’m currently working on "Tag Along" - A Ride Sharing Platform Initiative
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Natural Language Processing Projects
 - 🤔 I’m looking for help with Backend Development
 - 💬 Ask me about AI, Deep Learning, NLP
