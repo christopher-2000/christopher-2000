@@ -4,10 +4,10 @@ MS Computer Science @ Purdue University, Indiana, USA
 **christopher-2000/christopher-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on "Tag Along" - A Ride Sharing Platform Initiative
-- 🌱 I’m currently learning React Native
+- 🔭 Latest Project - "Tag Along" - A Ride Sharing Platform Initiative
+- 🌱 I’m currently learning Generative AI
 - 👯 I’m looking to collaborate on Natural Language Processing Projects
-- 🤔 I’m looking for help with Backend Development
+- 🤔 I’m looking for help with Langchain
 - 💬 Ask me about AI, Deep Learning, NLP
 - 📫 How to reach me: mgchristopher.netlify.app
 - ⚡ Fun fact: I am so light
