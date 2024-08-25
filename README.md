@@ -7,7 +7,6 @@ MS Computer Science @ Purdue University, Indiana, USA
 - 🔭 Latest Project - "Tag Along" - A Ride Sharing Platform Initiative
 - 🌱 I’m currently learning Generative AI
 - 👯 I’m looking to collaborate on Natural Language Processing Projects
-- 🤔 I’m looking for help with Langchain
 - 💬 Ask me about AI, Deep Learning, NLP
 - 📫 How to reach me: mgchristopher.netlify.app
 - ⚡ Fun fact: I am so light
